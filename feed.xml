@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://sylhare.github.io/Type-on-Strap/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sylhare.github.io/Type-on-Strap/" rel="alternate" type="text/html" /><updated>2021-02-06T22:04:32+05:30</updated><id>https://sylhare.github.io/Type-on-Strap/feed.xml</id><title type="html">Let’s Code The Technoloooogy</title><subtitle>A website with blog posts and pages</subtitle><entry><title type="html">Rahul sinha 123</title><link href="https://sylhare.github.io/Type-on-Strap/2020/02/06/test.html" rel="alternate" type="text/html" title="Rahul sinha 123" /><published>2020-02-06T00:00:00+05:30</published><updated>2020-02-06T00:00:00+05:30</updated><id>https://sylhare.github.io/Type-on-Strap/2020/02/06/test</id><content type="html" xml:base="https://sylhare.github.io/Type-on-Strap/2020/02/06/test.html">&lt;h1 id=&quot;what-a-colorful-post&quot;&gt;What a colorful post!&lt;/h1&gt;
+
+&lt;p&gt;This is an idea that came from &lt;a href=&quot;https://github.com/xukimseven/HardCandy-Jekyll&quot;&gt;xukimseven/HardCandy-Jekyll&lt;/a&gt; 
+looking at this cheerful and colorful them, I wanted to enable something similar for mine.&lt;/p&gt;
+
+&lt;p&gt;You can go fork and star hers too! 😉&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;how-does-it-work&quot;&gt;How does it work?&lt;/h2&gt;
+
+&lt;p&gt;Basically you need to add just one thing, the color:&lt;/p&gt;
+
+&lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;post&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Color Post&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;brown&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;It can either be a html color like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;brown&lt;/code&gt; (which look like red to me). Or with the rgb:&lt;/p&gt;
+
+&lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;post&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Color Post&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;rgb(165,42,42)&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The background used is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;lineart.png&lt;/code&gt; from &lt;a href=&quot;https://github.com/xukimseven&quot;&gt;xukimseven&lt;/a&gt; you can edit it in the config file. 
+If you want another one, put it in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/assets/img&lt;/code&gt; as well.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;⚠️ It’s a bit hacking the css in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;post.html&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Rahul Sinha</name></author><category term="Test" /><category term="Color" /><category term="Markdown" /><summary type="html">What a colorful post! This is an idea that came from xukimseven/HardCandy-Jekyll looking at this cheerful and colorful them, I wanted to enable something similar for mine. You can go fork and star hers too! 😉</summary></entry></feed>
