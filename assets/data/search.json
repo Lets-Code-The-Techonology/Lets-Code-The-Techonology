@@ -4,7 +4,7 @@
     "title"    : "Rahul sinha 123",
     "category" : "",
     "tags"     : " Test, Color, Markdown",
-    "url"      : "/Type-on-Strap/2020/02/06/test.html",
+    "url"      : "/2020/02/06/test.html",
     "date"     : "February 6, 2020",
     "excerpt"  : "What a colorful post!\n\nThis is an idea that came from xukimseven/HardCandy-Jekyll \nlooking at this cheerful and colorful them, I wanted to enable something similar for mine.\n\nYou can go fork and star hers too! 😉\n\n\n\nHow does it work?\n\nBasically you...",
   "content"  : "What a colorful post!\n\nThis is an idea that came from xukimseven/HardCandy-Jekyll \nlooking at this cheerful and colorful them, I wanted to enable something similar for mine.\n\nYou can go fork and star hers too! 😉\n\n\n\nHow does it work?\n\nBasically you need to add just one thing, the color:\n\n---\nlayout: post\ntitle: Color Post\ncolor: brown\n---\n\n\nIt can either be a html color like brown (which look like red to me). Or with the rgb:\n\n---\nlayout: post\ntitle: Color Post\ncolor: rgb(165,42,42)\n---\n\n\nThe background used is lineart.png from xukimseven you can edit it in the config file. \nIf you want another one, put it in /assets/img as well.\n\n  ⚠️ It’s a bit hacking the css in the post.html\n\n"
